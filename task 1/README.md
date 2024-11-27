@@ -1,7 +1,3 @@
-Here’s a draft README that you can use for your repository containing the solutions for each of the tasks. You can modify it further based on your specific preferences or repository structure.
-
----
-
 # C Programming Assignments
 
 This repository contains solutions to three C programming assignments, each focusing on different concepts such as arrays, strings, and simulation of smart systems.
